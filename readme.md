@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://i.imgur.com/u3OlLYj.png" alt="Logo" width="1000">
 
-  <h3 align="center">WiseGoat by <a href="https://github.com/Lorenalgm">Lorena</a></h3>
+  <h3 align="center">WiseGoat by <a href="https://github.com/PedroHMoreno">PedroHMoreno</a></h3>
  <br />
   <p align="center">
      Site gerador de conselhos e imagens de bodes :)
@@ -14,52 +14,8 @@
   </p>
 </p>
 
-## Índice
-
-* [Devchallenge](#devchallenge) 
-* [Desafio](#desafio)
-* [Techs](#techs)
-* [Como começar](#como-começar)
-* [Dicas](#dicas)  
-  * [Cores](#cores)
-  * [Modelo](#modelo)
-  * [Imagens](#imagens)
-  * [Tipo de fonte](#tipo-de-fonte)
-* [Compartilhe](#compartilhe)
-
 # Devchallenge
 <a href="https://www.devchallenge.com.br/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
-
-## Desafio extra:
-- Você pode aplicar uma animação no bode da página inicial, para dar o efeito que ele está flutuando
-
-
-# Techs: 
-- HTML
-- CSS
-- Livre escolha :)
-
-# Como começar:
-1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar! Sinta-se livre para utilizar o fluxo de trabalho que ache mais confortável<br>
-4 - Compartilhe seu resultado com a comunidade! #devchallenge
-
-# Dicas
-
-## Cores:
-Roxo: #72005F<br>
-Bege: #BAA193
-
-## Modelo:
-O modelo final desktop está disponível na pasta `./design`
-
-## Tipo de fonte:
-- Roboto
-
-# Compartilhe!
-Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
-Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge!<br>
 
 Desafio criado por  <a href="https://www.linkedin.com/in/lorenagmontes/">Lorena</a> :)
 
