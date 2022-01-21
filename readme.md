@@ -14,10 +14,12 @@
   </p>
 </p>
 
+# Techs: 
+- HTML
+- CSS
+- JavaScript
+
 # Devchallenge
 <a href="https://www.devchallenge.com.br/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
 Desafio criado por  <a href="https://www.linkedin.com/in/lorenagmontes/">Lorena</a> :)
-
-# Comunidade DevChallenge
-Site: https://www.devchallenge.com.br/ <br>
