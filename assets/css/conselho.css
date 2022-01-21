@@ -1,0 +1,45 @@
+@import "./animacao.css";
+
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width: 1000px;
+    height: 450px;
+    margin: 130px auto;
+    background-color: #EBE4E0;
+}
+
+.conselho {
+    width: 300px;
+    margin-left: 150px;
+
+}
+
+.conselho h1 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #72005F;
+    line-height: 55px;
+}
+
+.conselho h2 {
+    width: 100px;
+    font-size: 28px;
+    font: 400;
+    color: #BAA193;
+    margin: 5px 200px;
+}
+
+
+.conselho-image img {
+    max-width: 100%;
+    width: 400px;
+    height: 450px;
+    margin-top: 4px;
+    padding-bottom: 0px;
+    border-radius: 10px 0 0 10px;
+    box-sizing: border-box;
+}

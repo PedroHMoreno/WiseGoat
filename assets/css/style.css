@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import "./animacao.css";
+
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    font-family: 'Roboto';
+    text-decoration: none;
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    align-content: center;
+    gap: 100px;
+    margin-top: 100px
+}
+
+.conteudo-escrito{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: center;
+    width: 500px;
+    height: 500px;
+    margin-left: 0px;
+}
+
+.conteudo-escrito h1{
+    font-size: 165px;
+    font-weight: 700;
+    color: #72005F;
+    line-height: 190px;
+}
+
+.conteudo-escrito h2{
+    font-size: 58px;
+    font-weight: 700;
+    color: #BAA193;
+}
+
+.conteudo-escrito a{
+    background-color: #72005F;
+    border-radius: 20px;
+    padding: 20px 70px;
+    margin: 80px 10px 0px;
+    font-size: 40px;
+    color: #FFFF;
+    font-weight: 500;
+}
+
+.conteudo-imagem img{
+    width: 500px;
+    transform: translate(0px);
+    animation: float 5s ease-in-out infinite;
+}
+
+@keyframes float{
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-20px);
+    }
+
+    100%{
+        transform: translateY(0px);
+    }
+}
+
+.cabecalho{
+    background-color: #FFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin: 10px;
+}
+
+.cabecalho-logo{
+    padding: 20px 0;
+    margin-left: 100px;
+}
+
+.cabecalho-logo h2{
+    font-size: 30px;
+    color: #BAA193;
+    font-weight: 600;
+}
+
+.cabecalho-logo h1{
+    font-size: 62px;
+    margin-left: 5px;
+    color: #72005F;
+    font-weight: 600;
+}
